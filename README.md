@@ -1,5 +1,4 @@
-# windows-desktop-support-lab
-Hands-on Windows desktop support lab covering workstation setup, software installation, troubleshooting, validation and end-user handover.
+
 # Windows Desktop Support Lab
 
 A hands-on practice portfolio demonstrating a structured approach to Windows workstation setup, common desktop support incidents, validation, documentation, and end-user handover.
